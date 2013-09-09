@@ -21,7 +21,7 @@ Usage of this script:
 ---------------------
 To run and use this script, open the terminal and go to the script folder.  Then enter the following command.
 ```
-
+python ./easyphpmysql.py
 
 What is the host name for the database (ie - localhost)?
 localhost
@@ -59,6 +59,7 @@ yes
 
 The files has been written. Finished!!
 
-#That is it.  Now you should have a php class file called test.php, a php login script called login.php and an example php file that shows you how to use the php class called example.php
+#That is it.  Now you should have a php class file called test.php, a php login script called login.php 
+and an example php file that shows you how to use the php class called example.php
 
 ```
